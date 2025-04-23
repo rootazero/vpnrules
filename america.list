@@ -26,3 +26,6 @@ DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,firebase.google.com
 DOMAIN-SUFFIX,idx.google.com
+DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
