@@ -4,13 +4,6 @@ DOMAIN-SUFFIX,plexsign.key
 DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,crowdsec.net
 
-DOMAIN-SUFFIX,apple-maps.cn
-DOMAIN-SUFFIX,cdn-apple-mapkit.com
-DOMAIN-SUFFIX,apple-mapkit.com
-PROCESS-NAME,mapspushd
-PROCESS-NAME,com.apple.Maps
-
-
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
