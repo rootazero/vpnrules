@@ -4,6 +4,12 @@ DOMAIN-SUFFIX,johnzou.com
 DOMAIN-SUFFIX,rootazero.com
 DOMAIN-SUFFIX,hitr.cc
 
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-maps.cn
+DOMAIN-SUFFIX,cdn-apple-mapkit.com
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,mapspushd
+
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
@@ -23,7 +29,6 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,test.ustc.edu.cn
 
-
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,ibwjf.com
@@ -37,7 +42,6 @@ DOMAIN-SUFFIX,kubedown.com
 DOMAIN-SUFFIX,95155.com
 DOMAIN-KEYWORD,cmbc
 DOMAIN-SUFFIX,cmbc.com.cn
-DOMAIN-SUFFIX,sf-express.com
 
 DOMAIN-SUFFIX,*.pool.ntp.org
 DOMAIN-SUFFIX,pool.ntp.org
