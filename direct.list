@@ -4,12 +4,6 @@ DOMAIN-SUFFIX,johnzou.com
 DOMAIN-SUFFIX,rootazero.com
 DOMAIN-SUFFIX,hitr.cc
 
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,apple-maps.cn
-DOMAIN-SUFFIX,cdn-apple-mapkit.com
-PROCESS-NAME,com.apple.Maps
-PROCESS-NAME,mapspushd
-
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
