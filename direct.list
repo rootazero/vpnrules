@@ -18,17 +18,20 @@ DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,ipw.cn
 
+DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipecho.net
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,amazonaws.com
+
 DOMAIN-SUFFIX,neu6.edu.cn
 DOMAIN-SUFFIX,yinghualuo.cn
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,test.ustc.edu.cn
-DOMAIN-SUFFIX,ident.me
-DOMAIN-SUFFIX,ifconfig.me
-DOMAIN-SUFFIX,ipecho.net
-DOMAIN-SUFFIX,icanhazip.com
-DOMAIN-SUFFIX,amazonaws.com
+
+
 
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,zhenyunpan.com
