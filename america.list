@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,google
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,goo.gle
+DOMAIN-SUFFIX,antigravity.google
 
 DOMAIN-SUFFIX,canva.com
 DOMAIN-KEYWORD,canva
