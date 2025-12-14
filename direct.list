@@ -4,9 +4,6 @@ DOMAIN-SUFFIX,johnzou.com
 DOMAIN-SUFFIX,rootazero.com
 DOMAIN-SUFFIX,hitr.cc
 
-DOMAIN-SUFFIX,zealotmat.uk
-IP-CIDR,192.161.51.202/32,no-resolve
-
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
