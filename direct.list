@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,johnzou.com
 DOMAIN-SUFFIX,rootazero.com
 DOMAIN-SUFFIX,hitr.cc
 
+DOMAIN-SUFFIX,t8star.cn
+
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
@@ -28,8 +30,6 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,test.ustc.edu.cn
-
-
 
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,zhenyunpan.com
