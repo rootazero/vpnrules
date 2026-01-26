@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,stripe
+
 DOMAIN-SUFFIX,google
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,goo.gle
