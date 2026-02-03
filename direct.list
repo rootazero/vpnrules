@@ -7,10 +7,6 @@ DOMAIN-SUFFIX,88code.ai
 DOMAIN-SUFFIX,wu.ren
 DOMAIN-SUFFIX,rainapp.top
 
-DOMAIN-SUFFIX,alipan.com
-DOMAIN-KEYWORD,alipan
-DOMAIN-SUFFIX,quark.cn
-
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
@@ -36,6 +32,9 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,test.ustc.edu.cn
 
+
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-KEYWORD,alipan
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,ibwjf.com
