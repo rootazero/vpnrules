@@ -8,11 +8,14 @@ DOMAIN-SUFFIX,t8star.cn
 DOMAIN-KEYWORD,t8star
 DOMAIN-SUFFIX,dmxapi.com
 DOMAIN-SUFFIX,dmxapi.cn
-DOMAIN-SUFFIX,nadeko.net
-DOMAIN-SUFFIX,envoymeds.com
 DOMAIN-SUFFIX,88code.ai
 DOMAIN-SUFFIX,wu.ren
 DOMAIN-SUFFIX,rainapp.top
+DOMAIN-SUFFIX,nadeko.net
+DOMAIN-SUFFIX,envoymeds.com
+
+DOMAIN-SUFFIX,zealotmat.uk
+IP-CIDR,192.161.51.202/32,no-resolve
 
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
