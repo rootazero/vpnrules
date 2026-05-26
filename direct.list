@@ -14,6 +14,13 @@ DOMAIN-SUFFIX,rainapp.top
 DOMAIN-SUFFIX,nadeko.net
 DOMAIN-SUFFIX,envoymeds.com
 
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-KEYWORD,tianyancha
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-KEYWORD,qcc
+DOMAIN-SUFFIX,qixin.com
+DOMAIN-KEYWORD,qixin
+
 DOMAIN-SUFFIX,zealotmat.uk
 IP-CIDR,192.161.51.202/32,no-resolve
 
