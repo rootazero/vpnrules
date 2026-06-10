@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,zealotmat.uk
+IP-CIDR,192.161.51.202/32,no-resolve
+
 DOMAIN-SUFFIX,kiwix.org
 DOMAIN-SUFFIX,Huggingface.co
 DOMAIN-SUFFIX,hf.co
