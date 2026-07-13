@@ -24,7 +24,8 @@ HOST-SUFFIX,sf-express.com,DIRECT
 
 HOST-SUFFIX,deepseek.com,DIRECT 
 HOST-SUFFIX,minimaxi.com,DIRECT
-HOST-SUFFIX,minimax.chat,DIRECT 
+HOST-SUFFIX,minimax.chat,DIRECT
+HOST-SUFFIX,moonshot.cn,DIRECT
 HOST-SUFFIX,kimi.com,DIRECT
 HOST-SUFFIX,siliconflow.cn,DIRECT
 HOST-SUFFIX,volcengine.com,DIRECT
