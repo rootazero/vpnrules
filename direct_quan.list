@@ -74,7 +74,7 @@ HOST-SUFFIX,kubedown.com,DIRECT
 HOST-SUFFIX,95155.com,DIRECT
 HOST-SUFFIX,cmbc.com.cn,DIRECT
 
-HOST-SUFFIX,*.pool.ntp.org,DIRECT
+HOST-SUFFIX,pool.ntp.org,DIRECT
 HOST-SUFFIX,pool.ntp.org,DIRECT
 
 IPTV
