@@ -77,7 +77,6 @@ HOST-SUFFIX,cmbc.com.cn,DIRECT
 HOST-SUFFIX,pool.ntp.org,DIRECT
 HOST-SUFFIX,pool.ntp.org,DIRECT
 
-IPTV
 HOST-SUFFIX,dnsany.com,DIRECT
 HOST-SUFFIX,cmvideo.cn,DIRECT
 HOST-SUFFIX,chinamobile.com,DIRECT
