@@ -1,3 +1,11 @@
+DOMAIN-SUFFIX,zouguojun.com
+DOMAIN-SUFFIX,zivr.me
+
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,com.cn
+DOMAIN-SUFFIX,cn
+
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-KEYWORD,deepseek
 DOMAIN-SUFFIX,minimaxi.com
@@ -29,11 +37,6 @@ DOMAIN-KEYWORD,qcc
 DOMAIN-SUFFIX,qixin.com
 DOMAIN-KEYWORD,qixin
 
-DOMAIN-SUFFIX,gov.cn
-DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,com.cn
-DOMAIN-SUFFIX,cn
-
 DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,fit2cloud.com
 DOMAIN-SUFFIX,ipip.net
@@ -47,12 +50,10 @@ DOMAIN-SUFFIX,ipecho.net
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,amazonaws.com
 
-DOMAIN-SUFFIX,neu6.edu.cn
 DOMAIN-SUFFIX,yinghualuo.cn
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.im
-DOMAIN-SUFFIX,test.ustc.edu.cn
 
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-KEYWORD,alipan
