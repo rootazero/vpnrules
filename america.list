@@ -1,8 +1,9 @@
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,bewild.ai
@@ -42,9 +43,6 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,sora.com
-DOMAIN-KEYWORD,apple-relay
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,larksuite.com
 DOMAIN-KEYWORD,larksuite
 DOMAIN-SUFFIX,diabrowser.com
